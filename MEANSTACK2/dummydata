@@ -1,0 +1,9 @@
+db.employees.insert([{"EmployeeName":"Ankur Verma","Designation":"Mobile Developer","Project":"OUP","Skills":"Java, Android Studio, Xamarin"},{"EmployeeName":"Dheeraj Sharma","Designation":" Developer","Project":"Lion Servcies","Skills":"C#,Asp.Net,MVC,AngularJS"},
+{"EmployeeName":"Dhramveer","Designation":" Developer","Project":"VMesh","Skills":"C#,Asp.Net,MVC,AngularJS"},
+{"EmployeeName":"Prakash","Designation":" Web Developer","Project":"OUP","Skills":"C#,Asp.Net,MVC,AngularJS"},
+{"EmployeeName":"Raj Kumar","Designation":"Developer","Project":"CNS","Skills":"C#,Asp.Net,MVC"}])
+
+
+//use employeeDetails
+// paste this data
+// confirm with db.employees.find().pretty()
